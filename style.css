@@ -50,6 +50,10 @@ body{
   .header-right {
     float: none;
   }
+
+  .description{
+    font-size: 5px;
+  }
 }
 
 .welcome{
@@ -79,6 +83,7 @@ body{
 .play{
   text-align: center;
   display: block;
+  padding-bottom: 5px;
 }
 
 .play a:link, a:visited {
